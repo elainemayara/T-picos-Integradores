@@ -11,8 +11,8 @@ fun main( args: Array<String> ) {
 
     println("Qual a quarta nota")
     val n4:Float = readLine()!!.toFloat
-
-    var media = ((n1 * 2) + (n2 * 3 ) + (n3 * 4) + (n4 *1))/10
+ 
+    var media = ((n1 * 2) + (n2 * 3 ) + (n3 * 4) + (n4 *1)/10)
 
     if ( media >=7) {
         print ("Aluno aprovado." )
