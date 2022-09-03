@@ -1,0 +1,16 @@
+fun main( args: Array<String> ) {
+
+    println("Qual o primeiro numero")
+    val a: Float = readLine()!!.toFloat()
+
+    println("Qual o primeiro numero")
+    val b: Float = readLine()!!.toFloat()
+    
+    
+        if (a % b == 0 && b % a == 0) {
+            println("São Multiplos")
+        } else
+        {
+            println("Nao sao multiplos")
+        }
+    }
