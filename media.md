@@ -30,7 +30,7 @@ fun main( args: Array<String> ) {
         }
         println ( "Media final: " + final)
         );
-    } senão {
+    } else {
         println ( "Aluno reprovado." )
     }
 }
