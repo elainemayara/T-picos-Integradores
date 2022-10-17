@@ -1,1 +1,5 @@
-# T-picos-Integradores
+Analise Critica
+
+Um filme baseado em fatos  reais, contado um pouco sobre a vida de Alan Turing, que foi um matemático, lógico, criptoanalista e cientista da computação.  é  se passa na Segunda Guerra Mundial, quando o governo britânico montou uma equipe, reunindo os melhores matemáticos do país para um importante missão. Eles precisam derrotar a Emigma para assim derrotarem a guerra. A enigma era a forma que os alemãos se comunicavam e ela trazia uma grande dificuldade de decifrar as mensagens contidas, isso se dava em razão das infinitas possibilidades de leitura e combinações. 
+Mas com os calculos, estudo de turing e ajutas de seus amigos ele conseguiu criar o Christoph, a maquina que conseguiu quebrar a enigma e é ai que as coisas ficam mais difíceis. Decisões dolorosas baseadas em cálculos estáticos começaram a decidir quais pontos de ataque intervir sem que os alemães percebessem o feito, encerrando assim a guerra.
+Após o fim  da guerra, Alan Turing foi contenado a castração química por ser gay, o que era abominável na Inglaterra na época. Ao terminar todo o tratamento Alan cometeu suicídio.
